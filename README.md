@@ -1,3 +1,1 @@
-# About This Organization
-
-This is for testing!
+This is a special repository
